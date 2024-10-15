@@ -6,6 +6,7 @@ The routes of this project are:
 For Batting :  /bat/{match_type}/{player_name}
 For Bowling :  /bowl/{match_type}/{player_name}
 For All players details: /All
+For individual player profile detials: /Player/{player_name}
 
 ------Here replace {match_type} with the fields in {test,odi,ipl,t20} and try.------------
 These routes are only for getting individual stats of the players.
