@@ -6,5 +6,4 @@ import com.cricket.comparision.Model.Test_Batting;
 
 @Repository
 public interface Test_batting extends JpaRepository<Test_Batting, String> {
-    
 }
